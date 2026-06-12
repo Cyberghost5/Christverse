@@ -6,7 +6,9 @@ $contact_success = false;
 $contact_error = null;
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['name']) && !empty($_POST['email'])) {
-    if (isset($pdo)) {
+    if (!check_captcha_answer('contact', $_POST['captcha'] ?? '')) {
+        $contact_error = "Incorrect verification answer. Please solve the math puzzle again.";
+    } elseif (isset($pdo)) {
         try {
             $stmt = $pdo->prepare("INSERT INTO contacts (name, email, subject, message) VALUES (?, ?, ?, ?)");
             $stmt->execute([
@@ -98,6 +100,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['name']) && !empty($_
                                     <div class="form-floating">
                                         <textarea name="message" class="form-control" placeholder="Leave a message here" id="message" style="height: 120px" required></textarea>
                                         <label for="message">Message</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating">
+                                        <input type="number" name="captcha" class="form-control" id="captcha" placeholder="Solve CAPTCHA" required>
+                                        <label for="captcha">Spam Verification: Solve <?php echo get_captcha_question('contact'); ?> =</label>
                                     </div>
                                 </div>
                                 <div class="col-12">

@@ -1,5 +1,9 @@
 <?php
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
 include 'includes/db.php';
+include 'includes/captcha.php';
 
 $referer = 'index';
 if (!empty($_SERVER['HTTP_REFERER'])) {
@@ -13,6 +17,10 @@ if (empty($referer)) {
 }
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['email'])) {
+    if (!check_captcha_answer('newsletter', $_POST['captcha'] ?? '')) {
+        header("Location: " . $referer . "?subscribed=wrongcaptcha");
+        exit;
+    }
     $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
     if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
         if (isset($pdo)) {

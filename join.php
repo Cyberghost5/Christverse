@@ -6,7 +6,9 @@ $join_success = false;
 $join_error = null;
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['name']) && !empty($_POST['email'])) {
-    if (isset($pdo)) {
+    if (!check_captcha_answer('join', $_POST['captcha'] ?? '')) {
+        $join_error = "Incorrect verification answer. Please solve the math puzzle again.";
+    } elseif (isset($pdo)) {
         try {
             $stmt = $pdo->prepare("INSERT INTO registrations (name, email, department, message) VALUES (?, ?, ?, ?)");
             $stmt->execute([
@@ -122,6 +124,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['name']) && !empty($_
                                         <div class="form-floating">
                                             <textarea name="message" class="form-control bg-light border-0" placeholder="Tell us a bit about yourself" id="message" style="height: 100px"></textarea>
                                             <label for="message">About Yourself (Optional)</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                        <div class="form-floating">
+                                            <input type="number" name="captcha" class="form-control bg-light border-0" id="captcha" placeholder="Solve CAPTCHA" required>
+                                            <label for="captcha">Spam Verification: Solve <?php echo get_captcha_question('join'); ?> =</label>
                                         </div>
                                     </div>
                                     <div class="col-12">
