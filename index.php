@@ -270,11 +270,11 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="img/team-1.jpg" alt="Enoch Caleb">
+                            <img class="img-fluid" src="img/team-1.jpg" alt="Nathaniel Thomas Yosi">
                         </div>
                         <div class="team-text bg-light text-center p-4">
-                            <h5>Enoch Caleb</h5>
-                            <p class="text-primary">Founder & Lead Shepherd</p>
+                            <h5>Nathaniel Thomas Yosi</h5>
+                            <p class="text-primary">Team Lead Global</p>
                             <div class="team-social text-center">
                                 <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
@@ -286,11 +286,11 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="img/team-2.jpg" alt="Sarah Adams">
+                            <img class="img-fluid" src="img/team-2.jpg" alt="Tawal Vanessa Zere">
                         </div>
                         <div class="team-text bg-light text-center p-4">
-                            <h5>Sarah Adams</h5>
-                            <p class="text-primary">Camp Christos Lead Mentor</p>
+                            <h5>Tawal Vanessa Zere</h5>
+                            <p class="text-primary">HR/Talent Manager</p>
                             <div class="team-social text-center">
                                 <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
@@ -302,11 +302,11 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="img/team-3.jpg" alt="David King">
+                            <img class="img-fluid" src="img/team-3.jpg" alt="Samuel Paul">
                         </div>
                         <div class="team-text bg-light text-center p-4">
-                            <h5>David King</h5>
-                            <p class="text-primary">iCurate Content Director</p>
+                            <h5>Samuel Paul</h5>
+                            <p class="text-primary">Project Manager</p>
                             <div class="team-social text-center">
                                 <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
@@ -318,11 +318,75 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="img/team-4.jpg" alt="Elizabeth Johnson">
+                            <img class="img-fluid" src="img/team-4.jpg" alt="Sharon Kwayama">
                         </div>
                         <div class="team-text bg-light text-center p-4">
-                            <h5>Elizabeth Johnson</h5>
-                            <p class="text-primary">iConnect Coordinator</p>
+                            <h5>Sharon Kwayama</h5>
+                            <p class="text-primary">Director of Finances</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.9s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/team-5.jpg" alt="Adebisi Covenant">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Adebisi Covenant</h5>
+                            <p class="text-primary">Director of Technology</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="1.1s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/team-6.jpg" alt="Samuel Terna">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Samuel Terna</h5>
+                            <p class="text-primary">Director of Media</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="1.3s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/team-7.jpg" alt="Laura Godknows">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Laura Godknows</h5>
+                            <p class="text-primary">Director of Welfare</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="1.5s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/team-8.jpg" alt="Beracha Ogbole">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Beracha Ogbole</h5>
+                            <p class="text-primary">Director of Follow up/99-1</p>
                             <div class="team-social text-center">
                                 <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>

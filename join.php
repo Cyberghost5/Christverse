@@ -10,6 +10,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['name']) && !empty($_
         $join_error = "Incorrect verification answer. Please solve the math puzzle again.";
     } elseif (isset($pdo)) {
         try {
+            // If name or email already exists in database, return error
+            $stmt = $pdo->prepare("SELECT * FROM registrations WHERE name = ? OR email = ?");
+            $stmt->execute([$_POST['name'], $_POST['email']]);
+            $existing_user = $stmt->fetch();
+            if ($existing_user) {
+                $join_error = "Name or Email already exists in database. Please use a different name or email.";
+            }
             $stmt = $pdo->prepare("INSERT INTO registrations (name, email, department, message) VALUES (?, ?, ?, ?)");
             $stmt->execute([
                 $_POST['name'],
@@ -18,6 +25,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['name']) && !empty($_
                 $_POST['message'] ?? ''
             ]);
             $join_success = true;
+            // Send a customised email with html body to the user
+            send_email($_POST['email'], "Welcome to Christverse", "Thank you for joining Christverse. We will get back to you soon.");
+            // Send a customised email with html body to the admin
+            send_email("[EMAIL_ADDRESS]", "New Registration", "<p>New user registered for Christverse. Name: " . $_POST['name'] . ", Email: " . $_POST['email'] . ", Department: " . $_POST['department'] . ", Message: " . $_POST['message'] . "</p>");
         } catch (\PDOException $e) {
             $join_error = "We encountered a database error while saving your details. Please try again.";
         }
@@ -85,7 +96,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['name']) && !empty($_
                         
                         <div class="bg-light rounded p-4 border-start border-5 border-primary mb-4">
                             <h5 class="mb-2"><i class="fa fa-users text-primary me-2"></i>Departments & Mentorship</h5>
-                            <p class="mb-0 text-muted">Join any of our 8 active initiatives to partner in the spread of the gospel and personal development.</p>
+                            <p class="mb-0 text-muted">Join any of our active initiatives to partner in the spread of the gospel and personal development.</p>
                         </div>
                     </div>
                     <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
