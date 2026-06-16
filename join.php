@@ -108,13 +108,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['name']) && !empty($_
                                         <div class="form-floating">
                                             <select name="department" class="form-select bg-light border-0" id="department" required style="padding-top: 1.625rem; padding-bottom: 0.625rem;">
                                                 <option value="" disabled <?php echo empty($selected_dept) ? 'selected' : ''; ?>>Select Department / Initiative</option>
-                                                <option value="iConnect" <?php echo ($selected_dept == 'iConnect') ? 'selected' : ''; ?>>iConnect (Influencers & Designers)</option>
-                                                <option value="iCurate" <?php echo ($selected_dept == 'iCurate') ? 'selected' : ''; ?>>iCurate (Writers & Scriptwriters)</option>
-                                                <option value="iCreate" <?php echo ($selected_dept == 'iCreate') ? 'selected' : ''; ?>>iCreate (Artists, Musicians & Tech)</option>
-                                                <option value="Camp Elihu" <?php echo ($selected_dept == 'Camp Elihu') ? 'selected' : ''; ?>>Camp Elihu (Mentorship)</option>
+                                                <option value="iCreate" <?php echo ($selected_dept == 'iCreate') ? 'selected' : ''; ?>>iCreate (Creatives)</option>
+                                                <option value="Camp Christos" <?php echo ($selected_dept == 'Camp Christos') ? 'selected' : ''; ?>>Camp Christos (Mentorship)</option>
                                                 <option value="TBT Podcast" <?php echo ($selected_dept == 'TBT Podcast') ? 'selected' : ''; ?>>TBT Podcast</option>
                                                 <option value="Colors" <?php echo ($selected_dept == 'Colors') ? 'selected' : ''; ?>>Colors (Hangouts & Outreach)</option>
-                                                <option value="Harmony" <?php echo ($selected_dept == 'Harmony') ? 'selected' : ''; ?>>Harmony Devotional</option>
                                                 <option value="Freeform" <?php echo ($selected_dept == 'Freeform') ? 'selected' : ''; ?>>Freeform (Community Bonding)</option>
                                             </select>
                                             <label for="department">Interest Area</label>

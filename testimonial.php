@@ -32,9 +32,9 @@
                 <div class="testimonial-item text-center">
                     <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-1.jpg" style="width: 100px; height: 100px;">
                     <div class="testimonial-text rounded text-center p-4">
-                        <p>Camp Elihu has completely changed my mindset. The mentorship programs helped me discover my purpose and build rich, righteous kingdom values. I am forever grateful!</p>
+                        <p>Camp Christos has completely changed my mindset. The mentorship programs helped me discover my purpose and build rich, righteous kingdom values. I am forever grateful!</p>
                         <h5 class="mb-1">Samuel Oke</h5>
-                        <span class="fst-italic">Camp Elihu Mentee</span>
+                        <span class="fst-italic">Camp Christos Mentee</span>
                     </div>
                 </div>
                 <div class="testimonial-item text-center">

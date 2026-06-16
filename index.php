@@ -110,40 +110,6 @@
                 <p class="text-muted">Christverse operates through diverse departments and platforms globally, driven to raise young, rich, righteous kingdom influencers. Find where you fit and join us.</p>
             </div>
             <div class="row g-4 justify-content-center">
-                <!-- iConnect -->
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item bg-white text-center h-100 p-4 p-xl-5 rounded shadow-sm">
-                        <div class="d-inline-flex align-items-center justify-content-center text-primary rounded-circle mb-4" style="width: 80px; height: 80px; background-color: var(--secondary);">
-                            <i class="fa fa-share-alt fa-2x"></i>
-                        </div>
-                        <h4 class="mb-3">iConnect</h4>
-                        <p class="mb-4 text-muted">A platform created specifically for social media influencers, content creators, and brand identity designers partnered with or under the oversight of Christverse globally.</p>
-                        <a class="btn btn-outline-primary px-3" href="join?dept=iConnect">
-                            Join Team
-                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
-                                <i class="fa fa-arrow-right"></i>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <!-- iCurate -->
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="service-item bg-white text-center h-100 p-4 p-xl-5 rounded shadow-sm">
-                        <div class="d-inline-flex align-items-center justify-content-center text-primary rounded-circle mb-4" style="width: 80px; height: 80px; background-color: var(--secondary);">
-                            <i class="fa fa-pen-fancy fa-2x"></i>
-                        </div>
-                        <h4 class="mb-3">iCurate</h4>
-                        <p class="mb-4 text-muted">Specifically for writers, authors, spoken word artists, scriptwriters, and affirmation enthusiasts curating daily confessions and devotionals.</p>
-                        <a class="btn btn-outline-primary px-3" href="join?dept=iCurate">
-                            Join Team
-                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
-                                <i class="fa fa-arrow-right"></i>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
                 <!-- iCreate -->
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item bg-white text-center h-100 p-4 p-xl-5 rounded shadow-sm">
@@ -151,7 +117,7 @@
                             <i class="fa fa-palette fa-2x"></i>
                         </div>
                         <h4 class="mb-3">iCreate</h4>
-                        <p class="mb-4 text-muted">A collection of actors, actresses, singers, songwriters, tech-savvy individuals, artists, dancers, painters, photographers, graphic designers, and culinary artists.</p>
+                        <p class="mb-4 text-muted">A collection of actors, writers, authors, social media influencers, content creators, screenwriters, spoken word artists, song writers and every creative under the sun.</p>
                         <a class="btn btn-outline-primary px-3" href="join?dept=iCreate">
                             Join Team
                             <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
@@ -161,15 +127,15 @@
                     </div>
                 </div>
 
-                <!-- Camp Elihu -->
+                <!-- Camp Christos -->
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="service-item bg-white text-center h-100 p-4 p-xl-5 rounded shadow-sm">
                         <div class="d-inline-flex align-items-center justify-content-center text-primary rounded-circle mb-4" style="width: 80px; height: 80px; background-color: var(--secondary);">
                             <i class="fa fa-user-graduate fa-2x"></i>
                         </div>
-                        <h4 class="mb-3">Camp Elihu</h4>
+                        <h4 class="mb-3">Camp Christos</h4>
                         <p class="mb-4 text-muted">The official mentorship platform of Christverse. Targeted at youth and personal development through sound teaching to raise young, rich, righteous rulers for Christ.</p>
-                        <a class="btn btn-outline-primary px-3" href="join?dept=Camp Elihu">
+                        <a class="btn btn-outline-primary px-3" href="join?dept=Camp Christos">
                             Join Mentorship
                             <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
                                 <i class="fa fa-arrow-right"></i>
@@ -205,23 +171,6 @@
                         <p class="mb-4 text-muted">Official hangout and outreach program for Christverse globally. Fosters relationships, evangelism, and community expression in various creative formats.</p>
                         <a class="btn btn-outline-primary px-3" href="join?dept=Colors">
                             Get Involved
-                            <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
-                                <i class="fa fa-arrow-right"></i>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Harmony -->
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="service-item bg-white text-center h-100 p-4 p-xl-5 rounded shadow-sm">
-                        <div class="d-inline-flex align-items-center justify-content-center text-primary rounded-circle mb-4" style="width: 80px; height: 80px; background-color: var(--secondary);">
-                            <i class="fa fa-book-open fa-2x"></i>
-                        </div>
-                        <h4 class="mb-3">Harmony Devotional</h4>
-                        <p class="mb-4 text-muted">Our daily devotional that teaches the gospel, deepens the walk with the Father, and provides daily inspiration for faith declarations and missions.</p>
-                        <a class="btn btn-outline-primary px-3" href="join?dept=Harmony">
-                            Subscribe
                             <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
                                 <i class="fa fa-arrow-right"></i>
                             </div>
@@ -283,7 +232,7 @@
                                             <option value="iConnect">iConnect (Influencers & Content Creators)</option>
                                             <option value="iCurate">iCurate (Writers & Scriptwriters)</option>
                                             <option value="iCreate">iCreate (Artists, Dancers, tech)</option>
-                                            <option value="Camp Elihu">Camp Elihu (Mentorship Programs)</option>
+                                            <option value="Camp Christos">Camp Christos (Mentorship Programs)</option>
                                             <option value="TBT Podcast">TBT Podcast</option>
                                             <option value="Colors">Colors (Hangouts & Outreach)</option>
                                             <option value="Harmony">Harmony Devotional</option>
@@ -341,7 +290,7 @@
                         </div>
                         <div class="team-text bg-light text-center p-4">
                             <h5>Sarah Adams</h5>
-                            <p class="text-primary">Camp Elihu Lead Mentor</p>
+                            <p class="text-primary">Camp Christos Lead Mentor</p>
                             <div class="team-social text-center">
                                 <a class="btn btn-square" href="https://facebook.com/christverse" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
@@ -399,9 +348,9 @@
                 <div class="testimonial-item text-center">
                     <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-1.jpg" style="width: 100px; height: 100px;">
                     <div class="testimonial-text rounded text-center p-4">
-                        <p>Camp Elihu has completely changed my mindset. The mentorship programs helped me discover my purpose and build rich, righteous kingdom values. I am forever grateful!</p>
+                        <p>Camp Christos has completely changed my mindset. The mentorship programs helped me discover my purpose and build rich, righteous kingdom values. I am forever grateful!</p>
                         <h5 class="mb-1">Samuel Oke</h5>
-                        <span class="fst-italic">Camp Elihu Mentee</span>
+                        <span class="fst-italic">Camp Christos Mentee</span>
                     </div>
                 </div>
                 <div class="testimonial-item text-center">

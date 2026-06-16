@@ -52,7 +52,7 @@
                         </div>
                         <div class="team-text bg-light text-center p-4">
                             <h5>Sarah Adams</h5>
-                            <p class="text-primary">Camp Elihu Lead Mentor</p>
+                            <p class="text-primary">Camp Christos Lead Mentor</p>
                             <div class="team-social text-center">
                                 <a class="btn btn-square" href="https://facebook.com/christverse" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>

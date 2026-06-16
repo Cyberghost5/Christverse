@@ -11,7 +11,7 @@ include_once 'includes/captcha.php';
     <meta charset="utf-8">
     <title>Christverse | Raising Kingdom Influencers</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Christverse, Christian community, faith declarations, daily confessions, kingdom influencers, Camp Elihu, mentorship, daily devotional, Christian podcast" name="keywords">
+    <meta content="Christverse, Christian community, faith declarations, daily confessions, kingdom influencers, Camp Christos, mentorship, daily devotional, Christian podcast" name="keywords">
     <meta content="Christverse is a Christian community focused on the spread of the gospel of Christ, raising young, rich, righteous kingdom influencers, and empowering believers with daily faith confessions." name="description">
 
     <!-- Favicon -->
