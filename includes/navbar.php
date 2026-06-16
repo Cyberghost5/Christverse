@@ -12,14 +12,13 @@ $active_page = basename($_SERVER['PHP_SELF']);
     <div class="top-bar text-white-50 row gx-0 align-items-center d-none d-lg-flex">
         <div class="col-lg-6 px-5 text-start">
             <small><i class="fa fa-map-marker-alt me-2"></i>Abuja, Nigeria</small>
-            <small class="ms-4"><i class="fa fa-envelope me-2"></i>christverse@gmail.com</small>
+            <small class="ms-4"><i class="fa fa-envelope me-2"></i>christverse.live@gmail.com</small>
         </div>
         <div class="col-lg-6 px-5 text-end">
             <small>Follow us:</small>
-            <a class="text-white-50 ms-3" href="https://facebook.com/christverse" target="_blank"><i class="fab fa-facebook-f"></i></a>
-            <a class="text-white-50 ms-3" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-            <a class="text-white-50 ms-3" href="https://instagram.com/christverse" target="_blank"><i class="fab fa-instagram"></i></a>
-            <a class="text-white-50 ms-3" href="https://tiktok.com/@christverse" target="_blank"><i class="fab fa-tiktok"></i></a>
+            <a class="text-white-50 ms-3" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a class="text-white-50 ms-3" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a class="text-white-50 ms-3" href="https://www.tiktok.com/@christverse_community" target="_blank"><i class="fab fa-tiktok"></i></a>
         </div>
     </div>
 
@@ -40,7 +39,6 @@ $active_page = basename($_SERVER['PHP_SELF']);
                     <div class="dropdown-menu m-0">
                         <a href="team" class="dropdown-item">Our Team</a>
                         <a href="testimonial" class="dropdown-item">Testimonials</a>
-                        <a href="404" class="dropdown-item">404 Page</a>
                     </div>
                 </div>
                 <a href="contact" class="nav-item nav-link <?php echo ($active_page == 'contact.php') ? 'active' : ''; ?>">Contact</a>

@@ -6,17 +6,16 @@
                 <img src="img/logos/Christverse Horizontal White.png" alt="Christverse Logo" style="height: 45px;" class="mb-4">
                 <p>A global community of believers focused on raising young, rich, righteous, counter-culture and narrative-changing influencers for Christ.</p>
                 <div class="d-flex pt-2">
-                    <a class="btn btn-square me-1" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-square me-1" href="https://facebook.com/christverse" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-square me-1" href="https://instagram.com/christverse" target="_blank"><i class="fab fa-instagram"></i></a>
-                    <a class="btn btn-square me-0" href="https://tiktok.com/@christverse" target="_blank"><i class="fab fa-tiktok"></i></a>
+                    <a class="btn btn-square me-1" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-square me-1" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a class="btn btn-square me-0" href="https://www.tiktok.com/@christverse_community" target="_blank"><i class="fab fa-tiktok"></i></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Address</h5>
                 <p><i class="fa fa-map-marker-alt me-3"></i>Abuja, Nigeria</p>
                 <p><i class="fa fa-phone-alt me-3"></i>+234 704 437 3911</p>
-                <p><i class="fa fa-envelope me-3"></i>christverse@gmail.com</p>
+                <p><i class="fa fa-envelope me-3"></i>christverse.live@gmail.com</p>
             </div>
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Quick Links</h5>

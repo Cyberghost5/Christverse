@@ -276,9 +276,9 @@
                             <h5>Enoch Caleb</h5>
                             <p class="text-primary">Founder & Lead Shepherd</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://facebook.com/christverse" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://instagram.com/christverse" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -292,9 +292,9 @@
                             <h5>Sarah Adams</h5>
                             <p class="text-primary">Camp Christos Lead Mentor</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://facebook.com/christverse" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://instagram.com/christverse" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -308,9 +308,9 @@
                             <h5>David King</h5>
                             <p class="text-primary">iCurate Content Director</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://facebook.com/christverse" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://instagram.com/christverse" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -324,9 +324,9 @@
                             <h5>Elizabeth Johnson</h5>
                             <p class="text-primary">iConnect Coordinator</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://facebook.com/christverse" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://instagram.com/christverse" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>

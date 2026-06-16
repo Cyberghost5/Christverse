@@ -31,9 +31,9 @@ There are currently 8 departments and initiatives in Christverse globally
 Organisation Details
 Address - Abuja, Nigeria
 Phone Number - 234 704 437 3911
-Email - christverse@gmail.com
+Email - christverse.live@gmail.com
 Social Media Handles
-FB - https://facebook.com/christverse
-IG -  https://instagram.com/christverse
-Tiktok - https://tiktok.com/@christverse
+FB - https://www.facebook.com/christverse.live
+IG -  https://www.instagram.com/christverse_live
+Tiktok - https://www.tiktok.com/@christverse_community
 Twitter (X) - https://twitter.com/christverse
