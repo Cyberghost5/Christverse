@@ -14,7 +14,7 @@
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Address</h5>
                 <p><i class="fa fa-map-marker-alt me-3"></i>Abuja, Nigeria</p>
-                <p><i class="fa fa-phone-alt me-3"></i>+234 704 437 3911</p>
+                <p><i class="fa fa-phone-alt me-3"></i>+234 813 708 9697</p>
                 <p><i class="fa fa-envelope me-3"></i>christverse.live@gmail.com</p>
             </div>
             <div class="col-lg-3 col-md-6">

@@ -34,8 +34,9 @@ $active_page = basename($_SERVER['PHP_SELF']);
                 <a href="./" class="nav-item nav-link <?php echo ($active_page == './.php') ? 'active' : ''; ?>">Home</a>
                 <a href="about" class="nav-item nav-link <?php echo ($active_page == 'about.php') ? 'active' : ''; ?>">About</a>
                 <a href="initiatives" class="nav-item nav-link <?php echo ($active_page == 'initiatives.php') ? 'active' : ''; ?>">Initiatives</a>
+                <a href="events" class="nav-item nav-link <?php echo ($active_page == 'events.php') ? 'active' : ''; ?>">Events</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle <?php echo in_array($active_page, ['team.php', 'testimonial.php', '404.php']) ? 'active' : ''; ?>" data-bs-toggle="dropdown">Pages</a>
+                    <a href="#" class="nav-link dropdown-toggle <?php echo in_array($active_page, ['team.php', 'testimonial.php']) ? 'active' : ''; ?>" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu m-0">
                         <a href="team" class="dropdown-item">Our Team</a>
                         <a href="testimonial" class="dropdown-item">Testimonials</a>
