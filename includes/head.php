@@ -14,6 +14,30 @@ include_once 'includes/captcha.php';
     <meta content="Christverse, Christian community, faith declarations, daily confessions, kingdom influencers, Camp Christos, mentorship, daily devotional, Christian podcast" name="keywords">
     <meta content="Christverse is a Christian community focused on the spread of the gospel of Christ, raising young, rich, righteous kingdom influencers, and empowering believers with daily faith confessions." name="description">
 
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="1 days">
+    <meta name="author" content="Adebisi Covenant">
+    <meta name="robots" content="index, follow">
+    <meta name="geo.region" content="NG" />
+    <meta name="geo.placename" content="Lagos" />
+    <meta name="geo.position" content="6.5244;3.3792" />
+    <meta name="ICBM" content="6.5244, 3.3792" />
+    
+
+    <meta property="og:title" content="Christverse">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:url" content="https://christverse.org">
+    <meta property="og:description" content="Christverse is a Christian community focused on the spread of the gospel of Christ, raising young, rich, righteous kingdom influencers, and empowering believers with daily faith confessions.">
+    <meta property="og:image" content="https://christverse.org/img/logos/Christverse.jpg">
+
+    <meta property="twitter:card" content="summary"/>
+    <meta property="twitter:title" content="Christverse"/>
+    <meta property="twitter:description" content="Christverse is a Christian community focused on the spread of the gospel of Christ, raising young, rich, righteous kingdom influencers, and empowering believers with daily faith confessions.">
+    <meta property="twitter:url" content="https://christverse.org"/>
+    <meta property="twitter:image" content="https://christverse.org/img/logos/Christverse.jpg">
+
+
     <!-- Favicon -->
     <link href="img/logos/Christverse.jpg" rel="icon">
 
