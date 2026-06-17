@@ -25,7 +25,7 @@
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">What We Do</div>
-                <h1 class="display-6 mb-5">Explore Our 8 Global Initiatives and Departments</h1>
+                <h1 class="display-6 mb-5">Explore Our Global Initiatives and Departments</h1>
                 <p class="text-muted">Christverse operates through diverse departments and platforms globally, driven to raise young, rich, righteous kingdom influencers. Find where you fit and join us.</p>
             </div>
             <div class="row g-4 justify-content-center">
