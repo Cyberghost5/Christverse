@@ -1,4 +1,3 @@
 schema.sql
 LICENSE.txt
-# Include all files in the db.php file
-*includes/*.php
+includes/db.php
