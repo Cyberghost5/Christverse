@@ -121,7 +121,9 @@
                             <h5>Nathaniel Thomas Yosi</h5>
                             <p class="text-primary">Team Lead Global</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/nielrivers1?igsh=ZmM3NGpkNWx4Z210&utm_source=qr" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.facebook.com/share/14fLC9AUx9V/?mibextid=wwXIfr" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href="https://www.tiktok.com/@niel_rivers?_r=1&_t=ZS-97HXhr9Ad6O" target="_blank"><i class="fab fa-tiktok"></i></a>
                             </div>
                         </div>
                     </div>
@@ -191,7 +193,7 @@
                             <h5>Samuel Terna</h5>
                             <p class="text-primary">Director of Media</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://instagram.com/_samuelterna" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
