@@ -229,12 +229,9 @@
                                     <div class="form-floating">
                                         <select name="department" class="form-select bg-light border-0" id="department" required style="padding-top: 1.625rem; padding-bottom: 0.625rem;">
                                             <option value="" disabled selected>Select Department / Initiative</option>
-                                            <option value="iConnect">iConnect (Influencers & Content Creators)</option>
-                                            <option value="iCurate">iCurate (Writers & Scriptwriters)</option>
-                                            <option value="iCreate">iCreate (Artists, Dancers, tech)</option>
+                                            <option value="iCreate">iCreate (Creatives)</option>
                                             <option value="TBT Podcast">TBT Podcast</option>
                                             <option value="Colors">Colors (Hangouts & Outreach)</option>
-                                            <option value="Harmony">Harmony Devotional</option>
                                             <option value="Freeform">Freeform (Meetings & Bonding)</option>
                                         </select>
                                         <label for="department">Interest Area</label>
