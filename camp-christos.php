@@ -138,12 +138,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['apply_camp'])) {
                                 </div>
                             </div>
                             <div class="col-sm-6">
-                                <div class="d-flex align-items-center bg-light rounded p-3">
+                                <div class="d-flex align-items-center bg-light rounded p-3">    
                                     <div class="flex-shrink-0 btn-lg-square bg-white text-primary rounded-circle me-3">
                                         <i class="fa fa-calendar-alt"></i>
                                     </div>
                                     <div>
-                                        <h6 class="mb-1">6-Month Duration</h6>
+                                        <h6 class="mb-1">3-Month Duration</h6>
                                         <small class="text-muted">Comprehensive curriculum</small>
                                     </div>
                                 </div>

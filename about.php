@@ -121,9 +121,7 @@
                             <h5>Nathaniel Thomas Yosi</h5>
                             <p class="text-primary">Team Lead Global</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -137,9 +135,7 @@
                             <h5>Tawal Vanessa Zere</h5>
                             <p class="text-primary">HR/Talent Manager</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/vee_tawal?igsh=bzV3b3N1eGdwenl4&utm_source=qr" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -153,9 +149,7 @@
                             <h5>Samuel Paul</h5>
                             <p class="text-primary">Project Manager</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -169,9 +163,7 @@
                             <h5>Sharon Kwayama</h5>
                             <p class="text-primary">Director of Finances</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/your.girl_sharon?igsh=c21zaGw1M2E5ZWJ5" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -185,9 +177,7 @@
                             <h5>Adebisi Covenant</h5>
                             <p class="text-primary">Director of Technology</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -201,9 +191,7 @@
                             <h5>Samuel Terna</h5>
                             <p class="text-primary">Director of Media</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -217,9 +205,7 @@
                             <h5>Laura Godknows</h5>
                             <p class="text-primary">Director of Welfare</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -227,15 +213,13 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="1.5s">
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="img/team-8.jpg" alt="Beracha Ogbole">
+                            <img class="img-fluid" src="img/team-8.jpg" alt="Berachah Ogbole">
                         </div>
                         <div class="team-text bg-light text-center p-4">
-                            <h5>Beracha Ogbole</h5>
+                            <h5>Berachah Ogbole</h5>
                             <p class="text-primary">Director of Follow up/99-1</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/_bloomsberry__?igsh=enAydTRrYm1ldnEw&utm_source=qr" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>

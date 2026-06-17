@@ -272,9 +272,7 @@
                             <h5>Nathaniel Thomas Yosi</h5>
                             <p class="text-primary">Team Lead Global</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -288,9 +286,7 @@
                             <h5>Tawal Vanessa Zere</h5>
                             <p class="text-primary">HR/Talent Manager</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/vee_tawal?igsh=bzV3b3N1eGdwenl4&utm_source=qr" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -304,9 +300,7 @@
                             <h5>Samuel Paul</h5>
                             <p class="text-primary">Project Manager</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -320,9 +314,7 @@
                             <h5>Sharon Kwayama</h5>
                             <p class="text-primary">Director of Finances</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/your.girl_sharon?igsh=c21zaGw1M2E5ZWJ5" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -336,9 +328,7 @@
                             <h5>Adebisi Covenant</h5>
                             <p class="text-primary">Director of Technology</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -352,9 +342,7 @@
                             <h5>Samuel Terna</h5>
                             <p class="text-primary">Director of Media</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -368,9 +356,7 @@
                             <h5>Laura Godknows</h5>
                             <p class="text-primary">Director of Welfare</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -378,15 +364,13 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="1.5s">
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="img/team-8.jpg" alt="Beracha Ogbole">
+                            <img class="img-fluid" src="img/team-8.jpg" alt="Berachah Ogbole">
                         </div>
                         <div class="team-text bg-light text-center p-4">
-                            <h5>Beracha Ogbole</h5>
+                            <h5>Berachah Ogbole</h5>
                             <p class="text-primary">Director of Follow up/99-1</p>
                             <div class="team-social text-center">
-                                <a class="btn btn-square" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square" href="https://twitter.com/christverse" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.instagram.com/_bloomsberry__?igsh=enAydTRrYm1ldnEw&utm_source=qr" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -406,7 +390,7 @@
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
                 <div class="testimonial-item text-center">
-                    <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-1.jpg" style="width: 100px; height: 100px;">
+                    <!-- <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-1.jpg" style="width: 100px; height: 100px;"> -->
                     <div class="testimonial-text rounded text-center p-4">
                         <p>Camp Christos has completely changed my mindset. The mentorship programs helped me discover my purpose and build rich, righteous kingdom values. I am forever grateful!</p>
                         <h5 class="mb-1">Samuel Oke</h5>
@@ -414,7 +398,7 @@
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
-                    <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-2.jpg" style="width: 100px; height: 100px;">
+                    <!-- <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-2.jpg" style="width: 100px; height: 100px;"> -->
                     <div class="testimonial-text rounded text-center p-4">
                         <p>Being part of iConnect allowed me to align my career as a digital creator with my faith. It's a supportive community that helps me narrative-change the world for Christ.</p>
                         <h5 class="mb-1">Deborah Ani</h5>
@@ -422,7 +406,7 @@
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
-                    <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-3.jpg" style="width: 100px; height: 100px;">
+                    <!-- <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-3.jpg" style="width: 100px; height: 100px;"> -->
                     <div class="testimonial-text rounded text-center p-4">
                         <p>The Harmony Devotional is my daily source of spiritual fuel. Declaring God's word every morning has built a deep habit of faith and hope in my life.</p>
                         <h5 class="mb-1">Emmanuel Chidi</h5>

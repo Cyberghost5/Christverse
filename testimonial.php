@@ -30,7 +30,7 @@
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
                 <div class="testimonial-item text-center">
-                    <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-1.jpg" style="width: 100px; height: 100px;">
+                    <!-- <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-1.jpg" style="width: 100px; height: 100px;"> -->
                     <div class="testimonial-text rounded text-center p-4">
                         <p>Camp Christos has completely changed my mindset. The mentorship programs helped me discover my purpose and build rich, righteous kingdom values. I am forever grateful!</p>
                         <h5 class="mb-1">Samuel Oke</h5>
@@ -38,7 +38,7 @@
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
-                    <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-2.jpg" style="width: 100px; height: 100px;">
+                    <!-- <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-2.jpg" style="width: 100px; height: 100px;"> -->
                     <div class="testimonial-text rounded text-center p-4">
                         <p>Being part of iConnect allowed me to align my career as a digital creator with my faith. It's a supportive community that helps me narrative-change the world for Christ.</p>
                         <h5 class="mb-1">Deborah Ani</h5>
@@ -46,7 +46,7 @@
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
-                    <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-3.jpg" style="width: 100px; height: 100px;">
+                    <!-- <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/testimonial-3.jpg" style="width: 100px; height: 100px;"> -->
                     <div class="testimonial-text rounded text-center p-4">
                         <p>The Harmony Devotional is my daily source of spiritual fuel. Declaring God's word every morning has built a deep habit of faith and hope in my life.</p>
                         <h5 class="mb-1">Emmanuel Chidi</h5>
