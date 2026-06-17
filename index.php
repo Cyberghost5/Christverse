@@ -377,6 +377,21 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="1.7s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <img class="img-fluid" src="img/team-9.jpg" alt="Olasubomi Shuiabu">
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>Olasubomi Shuiabu</h5>
+                            <p class="text-primary">Content Director</p>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href="https://www.instagram.com/hi.subomi?igsh=MXFldXl0dXk3cXQxeA%3D%3D&utm_source=qr" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square" href="https://www.tiktok.com/@notsubomii?_r=1&_t=ZS-97Hl1nqUlIC" target="_blank"><i class="fab fa-tiktok"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
