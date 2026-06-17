@@ -54,7 +54,7 @@
                         </div>
                         <h4 class="mb-3">Camp Christos</h4>
                         <p class="mb-4 text-muted">The official mentorship platform of Christverse. Targeted at youth and personal development through sound teaching to raise young, rich, righteous rulers for Christ.</p>
-                        <a class="btn btn-outline-primary px-3" href="join?dept=Camp Christos">
+                        <a class="btn btn-outline-primary px-3" href="camp-christos">
                             Join Mentorship
                             <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
                                 <i class="fa fa-arrow-right"></i>

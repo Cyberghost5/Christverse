@@ -36,10 +36,11 @@ $active_page = basename($_SERVER['PHP_SELF']);
                 <a href="initiatives" class="nav-item nav-link <?php echo ($active_page == 'initiatives.php') ? 'active' : ''; ?>">Initiatives</a>
                 <a href="events" class="nav-item nav-link <?php echo ($active_page == 'events.php') ? 'active' : ''; ?>">Events</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle <?php echo in_array($active_page, ['team.php', 'testimonial.php']) ? 'active' : ''; ?>" data-bs-toggle="dropdown">Pages</a>
+                    <a href="#" class="nav-link dropdown-toggle <?php echo in_array($active_page, ['team.php', 'testimonial.php', 'camp-christos.php']) ? 'active' : ''; ?>" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu m-0">
                         <a href="team" class="dropdown-item">Our Team</a>
                         <a href="testimonial" class="dropdown-item">Testimonials</a>
+                        <a href="camp-christos" class="dropdown-item">Camp Christos</a>
                     </div>
                 </div>
                 <a href="contact" class="nav-item nav-link <?php echo ($active_page == 'contact.php') ? 'active' : ''; ?>">Contact</a>

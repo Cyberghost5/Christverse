@@ -28,7 +28,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['name']) && !empty($_
             // Send a customised email with html body to the user
             send_email($_POST['email'], "Welcome to Christverse", "Thank you for joining Christverse. We will get back to you soon.");
             // Send a customised email with html body to the admin
-            send_email("[EMAIL_ADDRESS]", "New Registration", "<p>New user registered for Christverse. Name: " . $_POST['name'] . ", Email: " . $_POST['email'] . ", Department: " . $_POST['department'] . ", Message: " . $_POST['message'] . "</p>");
+            send_email("christverse.live@gmail.com", "New Registration", "<p>New user registered for Christverse. Name: " . $_POST['name'] . ", Email: " . $_POST['email'] . ", Department: " . $_POST['department'] . ", Message: " . $_POST['message'] . "</p>");
         } catch (\PDOException $e) {
             $join_error = "We encountered a database error while saving your details. Please try again.";
         }
@@ -120,7 +120,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['name']) && !empty($_
                                             <select name="department" class="form-select bg-light border-0" id="department" required style="padding-top: 1.625rem; padding-bottom: 0.625rem;">
                                                 <option value="" disabled <?php echo empty($selected_dept) ? 'selected' : ''; ?>>Select Department / Initiative</option>
                                                 <option value="iCreate" <?php echo ($selected_dept == 'iCreate') ? 'selected' : ''; ?>>iCreate (Creatives)</option>
-                                                <option value="Camp Christos" <?php echo ($selected_dept == 'Camp Christos') ? 'selected' : ''; ?>>Camp Christos (Mentorship)</option>
                                                 <option value="TBT Podcast" <?php echo ($selected_dept == 'TBT Podcast') ? 'selected' : ''; ?>>TBT Podcast</option>
                                                 <option value="Colors" <?php echo ($selected_dept == 'Colors') ? 'selected' : ''; ?>>Colors (Hangouts & Outreach)</option>
                                                 <option value="Freeform" <?php echo ($selected_dept == 'Freeform') ? 'selected' : ''; ?>>Freeform (Community Bonding)</option>

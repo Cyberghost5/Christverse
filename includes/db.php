@@ -103,8 +103,40 @@ try {
         ]);
     }
 
+    // Create camp_christos_applications table
+    $pdo->exec("CREATE TABLE IF NOT EXISTS `camp_christos_applications` (
+        `id` INT AUTO_INCREMENT PRIMARY KEY,
+        `name` VARCHAR(255) NOT NULL,
+        `email` VARCHAR(255) NOT NULL,
+        `phone` VARCHAR(50) NULL,
+        `motivation` TEXT NOT NULL,
+        `created_at` TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    ) ENGINE=InnoDB");
+
 } catch (\PDOException $e) {
     // Save error to variable, we can check it in pages if connection failed
     $db_error = $e->getMessage();
+}
+
+if (!function_exists('send_email')) {
+    /**
+     * Send email helper function (HTML format)
+     *
+     * @param string $to
+     * @param string $subject
+     * @param string $message
+     * @param array $headers
+     * @return bool
+     */
+    function send_email($to, $subject, $message, $headers = []) {
+        $default_headers = [
+            'MIME-Version: 1.0',
+            'Content-type: text/html; charset=utf-8',
+            'From: noreply@christverse.live'
+        ];
+        $all_headers = array_merge($default_headers, (array)$headers);
+        // Suppress local mail server warnings using @
+        return @mail($to, $subject, $message, implode("\r\n", $all_headers));
+    }
 }
 ?>
