@@ -150,7 +150,7 @@
                         </div>
                         <div class="team-text bg-light text-center p-4">
                             <h5>Olasubomi Shuiabu</h5>
-                            <p class="text-primary">Content Director</p>
+                            <p class="text-primary">Team content creator</p>
                             <div class="team-social text-center">
                                 <a class="btn btn-square" href="https://www.instagram.com/hi.subomi?igsh=MXFldXl0dXk3cXQxeA%3D%3D&utm_source=qr" target="_blank"><i class="fab fa-instagram"></i></a>
                                 <a class="btn btn-square" href="https://www.tiktok.com/@notsubomii?_r=1&_t=ZS-97Hl1nqUlIC" target="_blank"><i class="fab fa-tiktok"></i></a>
