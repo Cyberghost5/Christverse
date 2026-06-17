@@ -15,7 +15,7 @@ include_once 'includes/captcha.php';
     <meta content="Christverse is a Christian community focused on the spread of the gospel of Christ, raising young, rich, righteous kingdom influencers, and empowering believers with daily faith confessions." name="description">
 
     <!-- Favicon -->
-    <link href="img/logos/christverse.jpg" rel="icon">
+    <link href="img/logos/Christverse.jpg" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
