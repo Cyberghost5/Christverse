@@ -281,13 +281,7 @@ foreach ($all_depts as $dept => $val) {
                     <div class="col-sm-6">
                         <a href="camp-applications" class="btn btn-outline-warning w-100 py-3 rounded-3 d-flex flex-column align-items-center gap-2">
                             <i class="fas fa-graduation-cap fa-2x"></i>
-                            <span class="small fw-semibold">Review Mentorship Apps</span>
-                        </a>
-                    </div>
-                    <div class="col-sm-6">
-                        <a href="../" target="_blank" class="btn btn-outline-secondary w-100 py-3 rounded-3 d-flex flex-column align-items-center gap-2">
-                            <i class="fas fa-globe fa-2x"></i>
-                            <span class="small fw-semibold">Visit Public Site</span>
+                            <span class="small fw-semibold">Review Camp Christos App.</span>
                         </a>
                     </div>
                 </div>

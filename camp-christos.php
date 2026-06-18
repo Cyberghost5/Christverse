@@ -34,12 +34,54 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['apply_camp'])) {
                     $stmt->execute([$name, $email, $phone, $motivation]);
                     $app_success = true;
 
+                    $html_message = "
+                    <!DOCTYPE html>
+                    <html>
+                    <head>
+                        <meta charset='utf-8'>
+                        <title>" . htmlspecialchars($subject) . "</title>
+                        <style>
+                            body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f6f8; margin: 0; padding: 0; color: #2b303a; }
+                            .wrapper { max-width: 600px; margin: 30px auto; background: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
+                            .header { background: #CE9B2E; padding: 25px; text-align: center; }
+                            .header img { max-height: 45px; }
+                            .content { padding: 40px 30px; line-height: 1.6; font-size: 16px; }
+                            .footer { background: #f8f9fa; padding: 20px; text-align: center; font-size: 12px; color: #8e9aa8; border-top: 1px solid #eeeeee; }
+                            .footer a { color: #CE9B2E; text-decoration: none; }
+                        </style>
+                    </head>
+                    <body>
+                        <div class='wrapper'>
+                            <div class='header'>
+                                <!-- Brand Header -->
+                                <div style='color: #ffffff; font-size: 24px; font-weight: bold; font-family: sans-serif; letter-spacing: 1px;'><img src='https://christverse.org/img/logos/Christverse%20Horizontal%20White.png' alt='Christverse Logo' style='height: 80px;'></div>
+                            </div>
+                            <div class='content'>
+                                
+                                <h3>Dear " . htmlspecialchars($name) . ",</h3>
+                                <p>Welcome to Camp Christos!</p>
+                                <p>This message is to inform you that you will need to access our Whatsapp group for more information.</p>
+                                <p>Click on the link below to join the next cohort, and introduce yourself as you enter.</p>
+                                <p style='margin-top: 30px; text-align: center;'>
+                                    <a href='https://chat.whatsapp.com/HVKdFeyyxCW5TIj3A0HqRA' style='background-color: #CE9B2E; color: white; padding: 12px 25px; text-decoration: none; border-radius: 30px; font-weight: bold; display: inline-block;'>Explore the Community</a>
+                                </p>
+                                <p>We hope you have a wonderful journey with us.</p>
+
+                                <h5>Stay Blessed.</h5>
+                                <p><strong>Nathaniel Thomas Yosi</strong><br>Global Team Lead, Christverse</p>
+                            
+                            </div>
+                            <div class='footer'>
+                                <p>You received this email because you are registered with Christverse.</p>
+                                <p>&copy; " . date('Y') . " Christverse Community, Abuja, Nigeria. All rights reserved.</p>
+                            </div>
+                        </div>
+                    </body>
+                    </html>
+                    ";
+
                     // Send customized emails
-                    send_email(
-                        $email, 
-                        "Welcome to Camp Christos Cohort Application", 
-                        "<p>Dear " . htmlspecialchars($name) . ",</p><p>Thank you for applying to Camp Christos, the official discipleship and mentorship program of Christverse.</p><p>Your application is currently under review for the upcoming cohort (limited to 50 disciples). We will reach out to you shortly via email/phone regarding your application status.</p><p>Blessings,<br>Camp Christos Team</p>"
-                    );
+                    send_email($email, "Welcome to Camp Christos Cohort Application", $html_message);
                     
                     send_email(
                         "christverse.live@gmail.com", 
