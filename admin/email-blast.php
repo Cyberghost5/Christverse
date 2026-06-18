@@ -244,7 +244,7 @@ const presets = {
 </ul>
 <p>If you registered to join a specific department, our talent managers will get in touch with you shortly.</p>
 <p style="margin-top: 30px; text-align: center;">
-    <a href="https://christverse.org" style="background-color: #CE9B2E; color: white; padding: 12px 25px; text-decoration: none; border-radius: 30px; font-weight: bold; display: inline-block;">Explore the Community</a>
+    <a href="https://chat.whatsapp.com/EO3qU7PskxN7qrm503eKMW" style="background-color: #CE9B2E; color: white; padding: 12px 25px; text-decoration: none; border-radius: 30px; font-weight: bold; display: inline-block;">Explore the Community</a>
 </p>
 <p>In Christ,</p>
 <p><strong>Nathaniel Thomas Yosi</strong><br>Global Team Lead, Christverse</p>`
