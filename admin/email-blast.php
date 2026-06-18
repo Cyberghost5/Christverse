@@ -69,18 +69,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <style>
                     body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f6f8; margin: 0; padding: 0; color: #2b303a; }
                     .wrapper { max-width: 600px; margin: 30px auto; background: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
-                    .header { background: #1A73E8; padding: 25px; text-align: center; }
+                    .header { background: #CE9B2E; padding: 25px; text-align: center; }
                     .header img { max-height: 45px; }
                     .content { padding: 40px 30px; line-height: 1.6; font-size: 16px; }
                     .footer { background: #f8f9fa; padding: 20px; text-align: center; font-size: 12px; color: #8e9aa8; border-top: 1px solid #eeeeee; }
-                    .footer a { color: #1A73E8; text-decoration: none; }
+                    .footer a { color: #CE9B2E; text-decoration: none; }
                 </style>
             </head>
             <body>
                 <div class='wrapper'>
                     <div class='header'>
                         <!-- Brand Header -->
-                        <div style='color: #ffffff; font-size: 24px; font-weight: bold; font-family: sans-serif; letter-spacing: 1px;'>CHRISTVERSE</div>
+                        <div style='color: #ffffff; font-size: 24px; font-weight: bold; font-family: sans-serif; letter-spacing: 1px;'><img src='https://christverse.org/img/logos/Christverse%20Horizontal%20White.png' alt='Christverse Logo' style='height: 45px;'></div>
                     </div>
                     <div class='content'>
                         " . $body . "
@@ -244,7 +244,7 @@ const presets = {
 </ul>
 <p>If you registered to join a specific department, our talent managers will get in touch with you shortly.</p>
 <p style="margin-top: 30px; text-align: center;">
-    <a href="https://christverse.org" style="background-color: #1A73E8; color: white; padding: 12px 25px; text-decoration: none; border-radius: 30px; font-weight: bold; display: inline-block;">Explore the Community</a>
+    <a href="https://christverse.org" style="background-color: #CE9B2E; color: white; padding: 12px 25px; text-decoration: none; border-radius: 30px; font-weight: bold; display: inline-block;">Explore the Community</a>
 </p>
 <p>In Christ,</p>
 <p><strong>Nathaniel Thomas Yosi</strong><br>Global Team Lead, Christverse</p>`
@@ -254,7 +254,7 @@ const presets = {
         body: `<h3>You're Invited! 📢</h3>
 <p>Hi Beloved,</p>
 <p>We are excited to invite you to our upcoming community meetup! This gathering will be a structured time of bonding, team games, faith confessions, and sharing the gospel.</p>
-<div style="background-color: #f8f9fa; border-left: 4px solid #1A73E8; padding: 15px; margin: 20px 0; border-radius: 4px;">
+<div style="background-color: #f8f9fa; border-left: 4px solid #CE9B2E; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <strong>📅 Date:</strong> Saturday, July 11, 2026<br>
     <strong>🕒 Time:</strong> 4:00 PM GMT+1<br>
     <strong>📍 Location:</strong> Abuja Central Park & Online (Zoom/YouTube)
