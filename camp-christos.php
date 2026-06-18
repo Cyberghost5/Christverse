@@ -254,7 +254,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['apply_camp'])) {
                                 </div>
                             <?php endif; ?>
                             
-                            <form action="camp-christos.php" method="POST">
+                            <form action="camp-christos" method="POST">
                                 <input type="hidden" name="apply_camp" value="1">
                                 <div class="row g-3">
                                     <div class="col-md-6">

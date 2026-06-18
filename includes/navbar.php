@@ -19,6 +19,7 @@ $active_page = basename($_SERVER['PHP_SELF']);
             <a class="text-white-50 ms-3" href="https://www.facebook.com/christverse.live" target="_blank"><i class="fab fa-facebook-f"></i></a>
             <a class="text-white-50 ms-3" href="https://www.instagram.com/christverse_live" target="_blank"><i class="fab fa-instagram"></i></a>
             <a class="text-white-50 ms-3" href="https://www.tiktok.com/@christverse_community" target="_blank"><i class="fab fa-tiktok"></i></a>
+            <a class="text-white-50 ms-3" href="https://youtube.com/@christverselive?si=DwLQZ21_rH6S2WCF" target="_blank"><i class="fab fa-youtube"></i></a>
         </div>
     </div>
 

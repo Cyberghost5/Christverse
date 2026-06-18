@@ -101,7 +101,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['name']) && !empty($_
                     </div>
                     <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                         <div class="h-100 bg-secondary p-5 rounded">
-                            <form action="join.php" method="POST">
+                            <form action="join" method="POST">
                                 <div class="row g-3">
                                     <div class="col-12">
                                         <div class="form-floating">

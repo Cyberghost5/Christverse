@@ -76,7 +76,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['name']) && !empty($_
                                 <i class="fa fa-exclamation-circle me-2"></i><?php echo htmlspecialchars($contact_error); ?>
                             </div>
                         <?php endif; ?>
-                        <form action="contact.php" method="POST">
+                        <form action="contact" method="POST">
                             <div class="row g-3">
                                 <div class="col-md-6">
                                     <div class="form-floating">
