@@ -59,16 +59,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['apply_camp'])) {
                             <div class='content'>
                                 
                                 <h3>Dear " . htmlspecialchars($name) . ",</h3>
-                                <p>Welcome to Camp Christos!</p>
-                                <p>This message is to inform you that you will need to access our Whatsapp group for more information.</p>
-                                <p>Click on the link below to join the next cohort, and introduce yourself as you enter.</p>
+                                <p>Congratulations on your onboarding into the Camp Christos discp program.</p>
+                                <p>The teaching modules are designed specifically for your progress and joy in the faith.</p>
+                                <p>Please be informed that you will need to access the WhatsApp group for more information.</p>
+                                <p>Find the link below.</p>
                                 <p style='margin-top: 30px; text-align: center;'>
                                     <a href='https://chat.whatsapp.com/HVKdFeyyxCW5TIj3A0HqRA' style='background-color: #CE9B2E; color: white; padding: 12px 25px; text-decoration: none; border-radius: 30px; font-weight: bold; display: inline-block;'>Explore the Community</a>
                                 </p>
-                                <p>We hope you have a wonderful journey with us.</p>
+                                <p>We hope you have a wonderful journey with us. May you learn Christ and make Him known to your world.</p>
 
-                                <h5>Stay Blessed.</h5>
-                                <p><strong>Nathaniel Thomas Yosi</strong><br>Global Team Lead, Christverse</p>
+                                <p><strong>Calvary Regards,</strong><br>Camp Cristos.</p>
                             
                             </div>
                             <div class='footer'>
