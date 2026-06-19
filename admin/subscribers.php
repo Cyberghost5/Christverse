@@ -40,7 +40,8 @@ if (isset($_GET['action']) && $_GET['action'] === 'delete' && isset($_GET['id'])
         try {
             $stmt = $pdo->prepare("DELETE FROM newsletter_subscribers WHERE id = ?");
             $stmt->execute([$delete_id]);
-            header("Location: subscribers?deleted=1" . ($search_query ? "&search=" . urlencode($search_query) : ""));
+            // header("Location: subscribers?deleted=1" . ($search_query ? "&search=" . urlencode($search_query) : ""));
+            header("Location: subscribers");
             exit;
         } catch (\PDOException $e) {
             $error_message = "Failed to delete subscriber: " . $e->getMessage();

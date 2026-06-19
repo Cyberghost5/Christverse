@@ -15,7 +15,8 @@ if (isset($_GET['action']) && $_GET['action'] === 'delete' && isset($_GET['id'])
         try {
             $stmt = $pdo->prepare("DELETE FROM email_logs WHERE id = ?");
             $stmt->execute([$delete_id]);
-            header("Location: email-logs?deleted=1" . ($filter_status ? "&status=" . urlencode($filter_status) : "") . ($filter_method ? "&method=" . urlencode($filter_method) : "") . ($search_query ? "&search=" . urlencode($search_query) : ""));
+            // header("Location: email-logs?deleted=1" . ($filter_status ? "&status=" . urlencode($filter_status) : "") . ($filter_method ? "&method=" . urlencode($filter_method) : "") . ($search_query ? "&search=" . urlencode($search_query) : ""));
+            header("Location: email-logs");
             exit;
         } catch (\PDOException $e) {
             $error_message = "Failed to delete log entry: " . $e->getMessage();

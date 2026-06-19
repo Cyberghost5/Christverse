@@ -14,6 +14,7 @@ if (isset($_GET['action']) && $_GET['action'] === 'delete' && isset($_GET['id'])
             $stmt = $pdo->prepare("DELETE FROM event_registrations WHERE id = ?");
             $stmt->execute([$delete_id]);
             header("Location: event-registrations?deleted=1" . ($filter_event ? "&event_id=" . urlencode($filter_event) : "") . ($search_query ? "&search=" . urlencode($search_query) : ""));
+            header("Location: event-registrations");
             exit;
         } catch (\PDOException $e) {
             $error_message = "Failed to delete booking: " . $e->getMessage();

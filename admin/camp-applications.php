@@ -12,7 +12,8 @@ if (isset($_GET['action']) && $_GET['action'] === 'delete' && isset($_GET['id'])
         try {
             $stmt = $pdo->prepare("DELETE FROM camp_christos_applications WHERE id = ?");
             $stmt->execute([$delete_id]);
-            header("Location: camp-applications?deleted=1" . ($search_query ? "&search=" . urlencode($search_query) : ""));
+            // header("Location: camp-applications?deleted=1" . ($search_query ? "&search=" . urlencode($search_query) : ""));
+            header("Location: camp-applications");
             exit;
         } catch (\PDOException $e) {
             $error_message = "Failed to delete application: " . $e->getMessage();

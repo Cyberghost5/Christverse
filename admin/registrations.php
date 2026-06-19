@@ -13,7 +13,8 @@ if (isset($_GET['action']) && $_GET['action'] === 'delete' && isset($_GET['id'])
         try {
             $stmt = $pdo->prepare("DELETE FROM registrations WHERE id = ?");
             $stmt->execute([$delete_id]);
-            header("Location: registrations?deleted=1" . ($filter_dept ? "&department=" . urlencode($filter_dept) : "") . ($search_query ? "&search=" . urlencode($search_query) : ""));
+            // header("Location: registrations?deleted=1" . ($filter_dept ? "&department=" . urlencode($filter_dept) : "") . ($search_query ? "&search=" . urlencode($search_query) : ""));
+            header("Location: registrations");
             exit;
         } catch (\PDOException $e) {
             $error_message = "Failed to delete registration: " . $e->getMessage();
