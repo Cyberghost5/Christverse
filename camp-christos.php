@@ -59,7 +59,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['apply_camp'])) {
                             <div class='content'>
                                 
                                 <h3>Dear " . htmlspecialchars($name) . ",</h3>
-                                <p>Congratulations on your onboarding into the Camp Christos discp program.</p>
+                                <p>Congratulations on your onboarding into the Camp Christos discipleship program.</p>
                                 <p>The teaching modules are designed specifically for your progress and joy in the faith.</p>
                                 <p>Please be informed that you will need to access the WhatsApp group for more information.</p>
                                 <p>Find the link below.</p>
