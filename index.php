@@ -363,7 +363,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="1.5s">
+                <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="1.5s">
                     <div class="team-item position-relative rounded overflow-hidden">
                         <div class="overflow-hidden">
                             <img class="img-fluid" src="img/team-8.jpg" alt="Berachah Ogbole">
@@ -391,7 +391,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
